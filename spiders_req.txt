@@ -1,0 +1,10 @@
+selenium 
+newspaper3k 
+scrapy_fake_useragent
+scrapy-rotating-proxies
+boto3
+botocore
+fuzzywuzzy
+beautifulsoup4
+price_parser
+requests
